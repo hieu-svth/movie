@@ -1,0 +1,6 @@
+.img__character {
+    width: 100%;
+    min-height: 375px;
+    border-radius: 20px;
+    background-size: cover;
+}

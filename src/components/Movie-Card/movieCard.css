@@ -1,0 +1,23 @@
+.movie-item {
+    margin-top: 1rem;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.movie-item__img {
+    width: 100%;
+    max-height: 375px;
+    border-radius: 20px;
+    background-size: cover;
+}
+.movie-item__title {
+    color: #fff;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 10px 15px;
+    font-weight: 400;
+}
+.movie-item__title:hover {
+    color: #fc0000;
+}

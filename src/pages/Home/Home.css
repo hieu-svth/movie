@@ -1,0 +1,15 @@
+.section__header {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    justify-content: space-between;
+}
+
+.section__header-title {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.section__body .swiper-slide {
+    flex-shrink: 1;
+}

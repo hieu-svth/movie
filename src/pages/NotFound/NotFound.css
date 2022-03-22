@@ -1,0 +1,23 @@
+.error {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.error-title {
+    margin: 0;
+    color: #d6d62c;
+}
+.error-des {
+    color: #fff;
+}
+.error-btn {
+    margin-top: 3px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 10px;
+}

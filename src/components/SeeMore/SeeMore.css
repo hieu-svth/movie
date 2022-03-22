@@ -1,0 +1,27 @@
+.see-more {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.see-more__img {
+    max-width: 200px;
+    min-width: 200px;
+    height: 250px;
+    border-radius: 8px;
+}
+.see-more__name {
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-left: 6px;
+}
+.see-more__name:hover {
+    color: red;
+}
+.see-more__title {
+    color: #fff;
+    font-size: 1.1rem;
+    margin: 0;
+    cursor: pointer;
+}

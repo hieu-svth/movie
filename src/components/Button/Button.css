@@ -1,0 +1,20 @@
+.btn {
+    padding: 5px 10px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    cursor: pointer;
+    color: #fff;
+}
+.btn-seconds {
+    background-color: #000;
+    color: #fff;
+    width: 84px;
+    border: none;
+    padding: 10px 8px;
+    margin: 0 auto 10px auto;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.btn-seconds:hover {
+    color: red;
+}

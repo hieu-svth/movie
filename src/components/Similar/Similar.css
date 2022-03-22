@@ -1,0 +1,6 @@
+.similar .swiper-slide {
+    flex-shrink: 1;
+}
+.similar {
+    padding: 20px 80px;
+}
